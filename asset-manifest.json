@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/giferalfa/static/css/main.bb2a08fe.chunk.css",
+    "main.js": "/giferalfa/static/js/main.8ca56f49.chunk.js",
+    "main.js.map": "/giferalfa/static/js/main.8ca56f49.chunk.js.map",
+    "runtime-main.js": "/giferalfa/static/js/runtime-main.7b5f9e47.js",
+    "runtime-main.js.map": "/giferalfa/static/js/runtime-main.7b5f9e47.js.map",
+    "static/js/2.716730da.chunk.js": "/giferalfa/static/js/2.716730da.chunk.js",
+    "static/js/2.716730da.chunk.js.map": "/giferalfa/static/js/2.716730da.chunk.js.map",
+    "static/js/3.59d0b9a7.chunk.js": "/giferalfa/static/js/3.59d0b9a7.chunk.js",
+    "static/js/3.59d0b9a7.chunk.js.map": "/giferalfa/static/js/3.59d0b9a7.chunk.js.map",
+    "index.html": "/giferalfa/index.html",
+    "static/css/main.bb2a08fe.chunk.css.map": "/giferalfa/static/css/main.bb2a08fe.chunk.css.map",
+    "static/js/2.716730da.chunk.js.LICENSE.txt": "/giferalfa/static/js/2.716730da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b5f9e47.js",
+    "static/js/2.716730da.chunk.js",
+    "static/css/main.bb2a08fe.chunk.css",
+    "static/js/main.8ca56f49.chunk.js"
+  ]
+}
